@@ -13,3 +13,8 @@
 * **bedtools getfasta -fi chr.fa -bed chr_plus.bed -s > chr_plus_res_rev.fa** - сохраняем последовательности в буквенном формате, накладывая границы отрезков из **.bed** файла на последовательности хромосом в **chr.fa** файле.
 
 Код на языке Python для предобработки последовательностей лежит в файле **data.ipynb**.
+
+
+## Модели
+
+Модели “BERT”, “RoBERTa”, “AlBERT”, “XLNet”, “XLM”, “FlauBERT”, “DistilBERT” и “CamemBERT” представленны с оптимальными параметрами в файле **models.ipynb**
